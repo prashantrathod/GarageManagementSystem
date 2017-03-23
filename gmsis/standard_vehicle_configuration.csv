@@ -1,0 +1,51 @@
+vehicle_id,vehicle_model,vehicle_make,fuel_type,engine_size
+1,Audi,TT,diesel,4
+2,Chrysler,Imperial,diesel,3
+3,Citroën,2CV,diesel,2
+4,Hillman,Minx Magnificent,diesel,3
+5,Chevrolet,Corvette,diesel,3
+6,Cadillac,Fleetwood,diesel,4
+7,Chevrolet,Corvette,diesel,2
+8,Ford,Thunderbird,diesel,1
+9,Chevrolet,Corvette,diesel,2
+10,Ford,Thunderbird,diesel,1
+11,Austin,Mini,diesel,3
+12,Chevrolet,Corvette,diesel,6
+13,BMW,600,diesel,5
+14,Chevrolet,Corvair,diesel,4
+15,Fillmore,Fillmore,diesel,3
+16,Fairthorpe,Rockette,diesel,2
+17,Austin,Mini Cooper,diesel,4
+18,Studebaker,Avanti,diesel,3
+19,Pontiac,Tempest,diesel,2
+20,Chevrolet,Corvette,diesel,6
+21,Pontiac,Grand Prix,diesel,5
+22,Chevrolet,Corvette,diesel,4
+23,Studebaker,Avanti,diesel,2
+24,Buick,Special,diesel,3
+25,Austin,Mini,diesel,5
+26,Volkswagen,Beetle,petrol,3
+27,Chevrolet,Corvette,petrol,3
+28,Ford,Galaxie,petrol,4
+29,Ford,Mustang,petrol,2
+30,Ford,Falcon,petrol,3
+31,Ford,Fairlane,petrol,6
+32,Jensen,Interceptor,petrol,4
+33,Pontiac,Bonneville,petrol,5
+34,Pontiac,Grand Prix,petrol,4
+35,Pontiac,GTO,petrol,3
+36,Pontiac,LeMans,petrol,5
+37,Pontiac,Tempest,petrol,4
+38,Chevrolet,Corvette,petrol,6
+39,Oldsmobile,Toronado,petrol,4
+40,Volkswagen,Beetle,petrol,3
+41,Pontiac,Tempest,petrol,4
+42,Pontiac,Firebird,petrol,5
+43,Pontiac,Grand Prix,petrol,2
+44,Pontiac,GTO,petrol,3
+45,Pontiac,LeMans,petrol,5
+46,Pontiac,Bonneville,petrol,3
+47,Chevrolet,Camaro,petrol,4
+48,Chevrolet,Bel Air,petrol,2
+49,Chevrolet,Corvette,petrol,3
+50,Ford,Country,petrol,5
